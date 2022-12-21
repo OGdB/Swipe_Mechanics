@@ -1,0 +1,96 @@
+Facts and features
+Interior details
+Bedrooms and bathrooms
+Bedrooms: 5
+Bathrooms: 3
+Full bathrooms: 2
+1/2 bathrooms: 1
+Bedroom2
+Level: Second
+Area: 322 Square Feet
+Dimensions: 23X14
+DiningRoom
+Level: Main
+Area: 168 Square Feet
+Dimensions: 14X12
+FamilyRoom
+Level: Basement
+Area: 230 Square Feet
+Dimensions: 23X10
+Bedroom5
+Level: Basement
+Area: 96 Square Feet
+Dimensions: 12X8
+Bedroom4
+Level: Main
+Area: 100 Square Feet
+Dimensions: 10X10
+Kitchen
+Level: Main
+Area: 120 Square Feet
+Dimensions: 12X10
+LivingRoom
+Level: Main
+Area: 273 Square Feet
+Dimensions: 21X13
+PrimaryBedroom
+Level: Second
+Area: 391 Square Feet
+Dimensions: 23X17
+Bedroom3
+Level: Main
+Area: 169 Square Feet
+Dimensions: 13X13
+Basement
+Basement: Full
+Flooring
+Flooring: Hardwood
+Heating
+Heating features: Natural Gas, Forced Air
+Cooling
+Cooling features: Window/Wall Units - 2
+Appliances
+Appliances included: Range, Microwave, Dishwasher, Refrigerator, Washer, Dryer
+Interior Features
+Window features: Some Window Treatmnt
+Interior features: Dry Bar, First Floor Bedroom, In-Law Floorplan, First Floor Full Bath, Separate Dining Room
+Other interior features
+Total structure area: 0
+Total interior livable area: 1,800 sqft
+Property details
+Parking
+Total spaces: 2
+Parking features: Garage, Open
+Garage spaces: 2
+Covered spaces: 2
+Has uncovered spaces: Yes
+Other parking information: Driveway (Off Alley)
+Property
+Stories: 2
+Patio and porch details: Patio
+Lot
+Lot size: 3,125 sqft
+Lot size dimensions: 125 X 25
+Other property information
+Additional structures included: Garage(s)
+Parcel number: 20323160140000
+Special conditions: List Broker Must Accompany
+Construction details
+Type and style
+Home type: SingleFamily
+Architectural style: Bungalow
+Property subType: Single Family Residence
+Material information
+Construction materials: Brick
+Foundation: Block
+Roof: Asphalt
+Condition
+Property condition: Age (91-100 Years)
+New construction: No
+Year built: 1927
+Other construction
+Builder model: BUNGALOW
+Utilities / Green Energy Details
+Utility
+Electric information: Circuit Breakers, 100 Amp Service
+Water information: Lake Michigan, Public

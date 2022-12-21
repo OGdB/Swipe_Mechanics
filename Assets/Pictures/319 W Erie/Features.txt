@@ -1,0 +1,80 @@
+Facts and features
+
+Interior details
+Bedrooms and bathrooms
+Bedrooms: 2
+Bathrooms: 3
+Full bathrooms: 2
+1/2 bathrooms: 1
+FamilyRoom
+Level: Main
+Area: 384 Square Feet
+Dimensions: 24X16
+Kitchen
+Level: Main
+Area: 207 Square Feet
+Dimensions: 9X23
+LivingRoom
+Level: Main
+Area: 360 Square Feet
+Dimensions: 20X18
+PrimaryBedroom
+Level: Second
+Area: 210 Square Feet
+Dimensions: 15X14
+Office
+Level: Main
+Area: 154 Square Feet
+Dimensions: 14X11
+Bedroom2
+Level: Main
+Area: 132 Square Feet
+Dimensions: 11X12
+DiningRoom
+Level: Main
+Area: 234 Square Feet
+Dimensions: 13X18
+Basement
+Basement: None
+Flooring
+Flooring: Hardwood, Heated Floors
+Heating
+Heating features: Natural Gas
+Cooling
+Cooling features: Zoned
+Appliances
+Appliances included: Range, Microwave, Dishwasher, High End Refrigerator, Washer, Dryer, Disposal, Trash Compactor, Stainless Steel Appliance(s), Wine Refrigerator
+Laundry features: In Unit
+Interior Features
+Interior features: Dry Bar, Theatre Room, Walk-In Closet(s)
+Other interior features
+Total structure area: 0
+Total interior livable area: 2,300 sqft
+Total number of fireplaces: 1
+Fireplace features: Gas Starter, Living Room
+Virtual tour: View virtual tour
+Property details
+Parking
+Total spaces: 2
+Parking features: Garage - Attached
+Garage spaces: 2
+Covered spaces: 2
+Other property information
+Parcel number: 17092220211001
+Special conditions: None
+Construction details
+Type and style
+Home type: Condo
+Property subType: Condominium, Single Family Residence
+Material information
+Construction materials: Brick, Block
+Condition
+Property condition: Age (Unknown)
+New construction: No
+Notable dates
+Major remodel year: 2018
+Utilities / Green Energy Details
+Utility
+Electric information: Circuit Breakers
+Sewer information: Public Sewer
+Water information: Lake Michigan

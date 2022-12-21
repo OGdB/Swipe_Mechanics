@@ -1,0 +1,89 @@
+Facts and features
+Interior details
+Bedrooms and bathrooms
+Bedrooms: 4
+Bathrooms: 3
+Full bathrooms: 3
+LivingRoom
+Level: Main
+Area: 168 Square Feet
+Dimensions: 12X14
+PrimaryBedroom
+Level: Second
+Area: 357 Square Feet
+Dimensions: 21X17
+Bedroom2
+Level: Second
+Area: 168 Square Feet
+Dimensions: 14X12
+Bedroom3
+Level: Second
+Area: 132 Square Feet
+Dimensions: 11X12
+Bedroom4
+Level: Main
+Area: 108 Square Feet
+Dimensions: 9X12
+DiningRoom
+Level: Main
+Area: 204 Square Feet
+Dimensions: 12X17
+FamilyRoom
+Level: Main
+Area: 168 Square Feet
+Dimensions: 14X12
+Kitchen
+Level: Main
+Area: 99 Square Feet
+Dimensions: 9X11
+Basement
+Basement: Full
+Flooring
+Flooring: Hardwood
+Heating
+Heating features: Natural Gas, Forced Air
+Cooling
+Cooling features: Central Air
+Appliances
+Appliances included: Range, Microwave, Dishwasher, Refrigerator, Washer, Dryer, Disposal, Stainless Steel Appliance(s)
+Laundry features: Gas Dryer Hookup, Electric Dryer Hookup, In Unit, In Bathroom, Multiple Locations, Second Floor Laundry
+Interior Features
+Window features: Double Pane Windows, ENERGY STAR Qualified Windows, Insulated Windows, Screens
+Interior features: First Floor Bedroom, First Floor Full Bath, Walk-In Closet(s)
+Other interior features
+Total structure area: 0
+Total interior livable area: 1,658 sqft
+Virtual tour: View virtual tour
+Property details
+Parking
+Total spaces: 2.5
+Parking features: Garage
+Garage spaces: 2.5
+Covered spaces: 2.5
+Property
+Stories: 2
+Exterior features: Balcony
+Patio and porch details: Deck, Patio, Porch
+Lot
+Lot size: 3,750 sqft
+Other property information
+Parcel number: 13341140040000
+Special conditions: None
+Other equipment: Ceiling Fan(s)
+Construction details
+Type and style
+Home type: SingleFamily
+Property subType: Single Family Residence
+Material information
+Construction materials: Vinyl Siding
+Condition
+Property condition: Age (100+ Years)
+New construction: No
+Year built: 1910
+Notable dates
+Major remodel year: 2019
+Utilities / Green Energy Details
+Utility
+Electric information: Circuit Breakers
+Sewer information: Public Sewer
+Water information: Lake Michigan
